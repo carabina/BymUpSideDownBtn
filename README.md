@@ -1,5 +1,5 @@
 # BymUpSideDownBtn
-BymUpSideDownBtn
+
 
 # Requirements
 - iOS 8.0+
@@ -11,7 +11,7 @@ BymUpSideDownBtn
 `pod 'BymUpSideDownBtn', '~> 0.0.1'`
 
 # Warning
-### 当然,如果你使用我的控件,请赋予他图片和文字两个属性.
+当然,如果你使用我的控件,请赋予他图片和文字两个属性.
 
 # Usage
 
